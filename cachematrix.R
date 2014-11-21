@@ -1,6 +1,6 @@
 ## It provides 'special matrix' object which can cache time-consuming calculation of inverse of the matrix.
 
-# It creates an object which can has a matrix and an inverse of the matrix inside.
+## It creates an object which can has a matrix and an inverse of the matrix inside.
 
 makeCacheMatrix <- function(x = matrix()) {
         inverse <- NULL
